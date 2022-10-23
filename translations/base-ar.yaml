@@ -11,17 +11,16 @@ steamPage:
         بينما في البداية تقوم بصناعة أشكال مختلفة، تتطلب منك المراحل المتقدمة تلوين هذه الأشكال، حيث يتوجب عليك استخراج وخلط الألوان.
 
         عند شراءك اللعبة على ستيم (Steam) تحصل على الإصدار الكامل للعبة، ولكن يمكن أيضاً لعبة نسخة تجريبية على موقع shapez.io  ثم يمكنك القرار لاحقا
-    what_others_say: What people say about shapez.io
-    nothernlion_comment: This game is great - I'm having a wonderful time playing,
-        and time has flown by.
-    notch_comment: Oh crap. I really should sleep, but I think I just figured out
-        how to make a computer in shapez.io
-    steam_review_comment: This game has stolen my life and I don't want it back.
-        Very chill factory game that won't let me stop making my lines more
-        efficient.
+    what_others_say: ماذا يقول الناس عن اللعبة
+    nothernlion_comment: هذه اللعبة عظيمة - امر بوقت رائع وانا العب هاته العبة,
+       وقد مر الوقت.
+    notch_comment: ياللحماقة. يجب علي النوم,لكني وجدت كيف يمكنني صنع حاسوب في
+       shapez.io
+    steam_review_comment: هذه اللعبة سرقت حياتي ولاأريدها مجددا.
+        لعبة مصنع هادئة جدا لن تتركني اتوقف عن جعل سككي اكثر كفاءة
 global:
-    loading: Loading
-    error: Error
+    loading: جار التحميل
+    error: خطأ
     thousandsDivider: ","
     decimalSeparator: .
     suffix:
@@ -34,15 +33,15 @@ global:
         oneSecondAgo: قبل ثانية واحدة
         xSecondsAgo: قبل <x> ثانية
         oneMinuteAgo: قبل دقيقة واحدة
-        xMinutesAgo: <x> minutes ago
-        oneHourAgo: one hour ago
-        xHoursAgo: <x> hours ago
-        oneDayAgo: one day ago
-        xDaysAgo: <x> days ago
+        xMinutesAgo: دقيقة <x> قبل 
+        oneHourAgo: قبل ساعة واحدة
+        xHoursAgo: ساعة <x> قبل 
+        oneDayAgo: قبل يوم واحد
+        xDaysAgo: ايام <x> قبل 
         secondsShort: <seconds>s
         minutesAndSecondsShort: <minutes>m <seconds>s
         hoursAndMinutesShort: <hours>h <minutes>m
-        xMinutes: <x> minutes
+        xMinutes: <x> دقائق
     keys:
         tab: TAB
         control: CTRL
@@ -50,7 +49,7 @@ global:
         escape: ESC
         shift: SHIFT
         space: SPACE
-    loggingIn: Logging in
+    loggingIn: تسجيل الدخول 
     loadingResources: Downloading additional resources (<percentage> %)
     discount: -<percentage>%
     discountSummerSale: SPECIAL PROMOTION! Offer ends 7 July
