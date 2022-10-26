@@ -11,17 +11,15 @@ steamPage:
         بينما في البداية تقوم بصناعة أشكال مختلفة، تتطلب منك المراحل المتقدمة تلوين هذه الأشكال، حيث يتوجب عليك استخراج وخلط الألوان.
 
         عند شراءك اللعبة على ستيم (Steam) تحصل على الإصدار الكامل للعبة، ولكن يمكن أيضاً لعبة نسخة تجريبية على موقع shapez.io  ثم يمكنك القرار لاحقا
-    what_others_say: What people say about shapez.io
-    nothernlion_comment: This game is great - I'm having a wonderful time playing,
-        and time has flown by.
-    notch_comment: Oh crap. I really should sleep, but I think I just figured out
-        how to make a computer in shapez.io
-    steam_review_comment: This game has stolen my life and I don't want it back.
-        Very chill factory game that won't let me stop making my lines more
-        efficient.
+    what_others_say: ماذا يقول الناس عن اللعبة ؟  
+    nothernlion_comment: هذه العبة رائعة - امر بوقت رائع وانا العبها,
+        والوقت قد ضاع.
+    notch_comment: اوه يجب علي انا انام , ولكن اظن اني وجدت طريقة كيف اصنها بها كمبيوتر 
+    steam_review_comment: هذا اللعبة سرقت حياتي ولاأريدها مجددا.
+        لعبة مصنع مريحة لن تتركني اجعل خطوط المصنع اكثر فعالية.
 global:
-    loading: Loading
-    error: Error
+    loading: جار التحميل
+    error: خطأ
     thousandsDivider: ","
     decimalSeparator: .
     suffix:
@@ -34,15 +32,15 @@ global:
         oneSecondAgo: قبل ثانية واحدة
         xSecondsAgo: قبل <x> ثانية
         oneMinuteAgo: قبل دقيقة واحدة
-        xMinutesAgo: <x> minutes ago
-        oneHourAgo: one hour ago
-        xHoursAgo: <x> hours ago
-        oneDayAgo: one day ago
-        xDaysAgo: <x> days ago
+        xMinutesAgo: <x> قبل دقائق 
+        oneHourAgo: قبل ساعة واحدة
+        xHoursAgo: <x> قبل ساعات
+        oneDayAgo: قبل يوم واحد
+        xDaysAgo: <x> قبل ايام
         secondsShort: <seconds>s
         minutesAndSecondsShort: <minutes>m <seconds>s
         hoursAndMinutesShort: <hours>h <minutes>m
-        xMinutes: <x> minutes
+        xMinutes: <x> دقائق
     keys:
         tab: TAB
         control: CTRL
@@ -50,58 +48,58 @@ global:
         escape: ESC
         shift: SHIFT
         space: SPACE
-    loggingIn: Logging in
-    loadingResources: Downloading additional resources (<percentage> %)
+    loggingIn: تسجيل الدخول
+    loadingResources: تحميل مصادر اضافية (<percentage> %)
     discount: -<percentage>%
-    discountSummerSale: SPECIAL PROMOTION! Offer ends 7 July
+    discountSummerSale: عرض خاص ! ينتهي العرض في 7 جوييه
 demoBanners:
-    title: Demo Version
+    title: نسخة الديمو
     intro: |-
-        Get the full game <strong>now</strong> to unlock:<ul>
-            <li>All 26 levels + infinite Freeplay</li>
-            <li>22 new buildings</li>
-            <li>Mod support</li>
-            <li>Achievements</li>
-            <li>Dark Mode</li>
-            <li>... and a lot more!</li>
+        احصل على اللعبة الكاملة <strong>now</strong> لفتح:<ul>
+            <li>كل المستويات + لعب مجاني </li>
+            <li>22 بناية جديدة</li>
+            <li>دعم المودات</li>
+            <li>الانجازات</li>
+            <li>الوضع الداكن</li>
+            <li>... و المزيد !</li>
         </ul>
-    playtimeDisclaimer: The full version contains more than <strong>24 hours of content</strong>.
-    playerCount: <playerCount> players like you are currently playing shapez on Steam
-    untilEndOfDemo: Until end of demo
-    playtimeDisclaimerDownload: You can continue your savegame in the full version!
-        Click <strong>here</strong> to download your savegame.
-    titleV2: "Play the full version now for:"
+    playtimeDisclaimer: النسخة الكاملة تحتوي على اكثر من  <strong>24 ساعة من المحتوى </strong>.
+    playerCount: <playerCount> لاعبون مثلك يلعبون shapez.io على ستيم
+    untilEndOfDemo: حتى نهاية النسخة الاولية
+    playtimeDisclaimerDownload: يمكنك متابعة حفظك للعبة في النسخة الكاملة !
+        اضغط <strong>هنا</strong> لتحميل حفظ اللعبة .
+    titleV2: "العب النسخة الكاملة بـ:"
 mainMenu:
-    play: Play
-    continue: Continue
-    newGame: New Game
-    changelog: Changelog
+    play: العب 
+    continue: استمر 
+    newGame: لعبة جديدة
+    changelog: سجل التحديثات 
     subreddit: Reddit
-    importSavegame: Import
-    openSourceHint: This game is open source!
-    discordLink: Official Discord Server
-    helpTranslate: Help translate!
-    madeBy: Made by <author-link>
-    browserWarning: Sorry, but the game is known to run slow on your browser! Get
-        the standalone version or download chrome for the full experience.
-    savegameLevel: Level <x>
-    savegameLevelUnknown: Unknown Level
-    savegameUnnamed: Unnamed
-    puzzleMode: Puzzle Mode
-    back: Back
-    puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
-        DLC now on Steam for even more fun!
+    importSavegame: ادخِل
+    openSourceHint: هذه اللعبة مصدر مفتوح !
+    discordLink: سيرفر الديسكورد الرسمي 
+    helpTranslate: ساعد بالترجمة !
+    madeBy: صنع من طرف  <author-link>
+    browserWarning: اسف , لكن هذا اللبعة بانها بطيئة على هذا المتصفح! احصل
+       على النسخة الكاملة لكي تلعب في المتصفح .
+    savegameLevel: المستوى <x>
+    savegameLevelUnknown: مستوى غير معروف
+    savegameUnnamed: بدون اسم
+    puzzleMode: وصع الاحجية 
+    back: رجوع 
+    puzzleDlcText: هل تستمتع بتصميم المصانع ؟ احصل على نظام الاحجية 
+        DLC في الستيم لاستمتاع اكثر !
     puzzleDlcWishlist: Wishlist now!
     puzzleDlcViewNow: View Dlc
     mods:
-        title: Active Mods
-        warningPuzzleDLC: Playing the Puzzle DLC is not possible with mods. Please
-            disable all mods to play the DLC.
-    playingFullVersion: You are now playing the full version!
-    logout: Logout
-    noActiveSavegames: No active savegames found - Click play to start a new game!
-    playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+        title: تفعيل الاضافات 
+        warningPuzzleDLC: لعب وضع الاحجية غير ممكن عند تفعيل المودات.
+        من فضلك قم بتعطيل المودات لكي تلعب 
+    playingFullVersion: انت الان تلعب النسخة الكاملة!
+    logout: تسجيل الخروج
+    noActiveSavegames: لايوجد حفظ للعبة - اضغط على لعب لكي تلعب !
+    playFullVersionV2: اشتريت اللعبة من ستيم ? العب النسخة الكاملة في متصفحك!
+    playFullVersionStandalone: يمكنك لعب النسخة الكاملة في متصفحك!
 dialogs:
     buttons:
         ok: OK
