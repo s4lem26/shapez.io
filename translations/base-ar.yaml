@@ -102,94 +102,93 @@ mainMenu:
     playFullVersionStandalone: يمكنك لعب النسخة الكاملة في متصفحك!
 dialogs:
     buttons:
-        ok: OK
-        delete: Delete
-        cancel: Cancel
-        later: Later
-        restart: Restart
-        reset: Reset
-        getStandalone: Get Standalone
-        deleteGame: I know what I am doing
-        viewUpdate: View Update
-        showUpgrades: Show Upgrades
-        showKeybindings: Show Keybindings
-        retry: Retry
-        continue: Continue
-        playOffline: Play Offline
+        ok: حسنا
+        delete: حذف 
+        cancel: الغاء 
+        later: بعد قليل
+        restart: اعادة تشغيل
+        reset: اعادة
+        getStandalone: احصل على الاصدار المستقل 
+        deleteGame: أنا أعي ماذا افعل
+        viewUpdate: رؤية التحديث 
+        showUpgrades: اظهار التطويرات
+        showKeybindings: اظهار 
+        retry: اعد المحاولة 
+        continue: استمر 
+        playOffline: العب بدون انترنت
     importSavegameError:
-        title: Import Error
-        text: "Failed to import your savegame:"
+        title: خطأ في الادخال
+        text: "فشل في ادخال الحفظ"
     importSavegameSuccess:
-        title: Savegame Imported
-        text: Your savegame has been successfully imported.
+        title: تم ادخال حفظ العبة
+        text: حفظك اللعبة تم بنجاح .
     gameLoadFailure:
-        title: Game is broken
-        text: "Failed to load your savegame:"
+        title: اللعبة معطلة
+        text: "فشل في تحميل حفظ اللعبة:"
     confirmSavegameDelete:
-        title: Confirm deletion
-        text: Are you sure you want to delete the following game?<br><br>
-            '<savegameName>' at level <savegameLevel><br><br> This can not be
-            undone!
+        title: تأكيد الحذف
+        text:  هل انت متأكد من حذف اللعبة التالية?<br><br>
+            '<savegameName>' في المستوى  <savegameLevel><br><br> لايمكن التراجع بعد 
+           هذه لخطوة!
     savegameDeletionError:
-        title: Failed to delete
-        text: "Failed to delete the savegame:"
+        title: فشل في الحذف 
+        text: "فشل في حذف حفظ اللعبة:"
     restartRequired:
-        title: Restart required
-        text: You need to restart the game to apply the settings.
+        title: لزوم اعادة التشغيل 
+        text: يجب اعادة تشغيل اللعبة لتطبيق الاعدادات.
     editKeybinding:
-        title: Change Keybinding
-        desc: Press the key or mouse button you want to assign, or escape to cancel.
+        title:  تغيير المفاتيح الملزمة
+        desc: اضغط على المفتاح او زر الفأرة الذي تريد تعيينه , او esc للالغاء.
     resetKeybindingsConfirmation:
-        title: Reset keybindings
-        desc: This will reset all keybindings to their default values. Please confirm.
+        title: اعادة المفاتيح الملزمة
+        desc: هذا سيعيد المفاتيح الملزمة الى قيمتها الاصلية . من فضلك أكد.
     keybindingsResetOk:
-        title: Keybindings reset
-        desc: The keybindings have been reset to their respective defaults!
+        title: اعادة المفاتيح الملزمة
+        desc: تم اعادة المفاتيح الملزمة الى قيمها الافتراضية!
     featureRestriction:
-        title: Demo Version
-        desc: You tried to access a feature (<feature>) which is not available in the
-            demo. Consider getting the standalone version for the full
-            experience!
+        title: النسخة التجريبية
+        desc: لقد حاولت الوصول الى ميزة (<feature>) وهو غير متوفر في
+        التجريبي . ضع في اعتبارك الحصول على الإصدار المستقل للحصول على التجربة 
+        الكاملة !
     oneSavegameLimit:
-        title: Limited savegames
-        desc: You can only have one savegame at a time in the demo version. Please
-            remove the existing one or get the standalone version!
+        title: حفظ لعبة محدود 
+        desc: يمكنك الحصول على حفظ لعبة واحدة في ان واحد في النسخة التجريبية. من فضلك
+        قم بحذف الحفظ موجود او احصل على النسخة المستقلى!
     updateSummary:
-        title: New update!
-        desc: "Here are the changes since you last played:"
+        title: تحديث جديد!
+        desc: "هذه التحديثان منذ اخر مرة لعبت فيها :"
     upgradesIntroduction:
-        title: Unlock Upgrades
-        desc: All shapes you produce can be used to unlock upgrades - <strong>Don't
-            destroy your old factories!</strong> The upgrades tab can be found
-            on the top right corner of the screen.
+        title: افتح التطويرات 
+        desc: كل الاشكال التي تصنع يمكن استعمالها للحصول على التطويرات  - <strong>لا
+        تدمر مصانعك القديمة !</strong> صفحة التطويرات يمكن ايجادها 
+            في الزاوية العلوية اليمنى من الشاشة.
     massDeleteConfirm:
-        title: Confirm delete
-        desc: You are deleting a lot of buildings (<count> to be exact)! Are you sure
-            you want to do this?
+        title: تأكيد الحذف 
+        desc: ستحذف الكثير من البنايات (<count> لاكثر دقة )! هل أنت متأكد 
+            من فعل هذا؟
     massCutConfirm:
-        title: Confirm cut
-        desc: You are cutting a lot of buildings (<count> to be exact)! Are you sure you
-            want to do this?
+        title: تأكيد القطع 
+        desc: ستفوم بقطع الكثير من البنايات  (<count> لاكثر دقة )! هل أنت متأكد 
+           من فعل هذا ؟
     massCutInsufficientConfirm:
-        title: Confirm cut
-        desc: You can not afford to paste this area! Are you sure you want to cut it?
+        title: تأكيد القطع
+        desc: لا يمكنك لصق هذه المنطقة ! هل أنت متأكد أنك تريد قطعها ؟
     blueprintsNotUnlocked:
-        title: Not unlocked yet
-        desc: Complete level 12 to unlock Blueprints!
+        title: لم يتم الفتح 
+        desc: أكمل المستوى 12 لفتح المخططات !
     keybindingsIntroduction:
-        title: Useful keybindings
-        desc: "This game has a lot of keybindings which make it easier to build big
-            factories. Here are a few, but be sure to <strong>check out the
-            keybindings</strong>!<br><br> <code class='keybinding'>CTRL</code> +
-            Drag: Select an area.<br> <code class='keybinding'>SHIFT</code>:
-            Hold to place multiple of one building.<br> <code
-            class='keybinding'>ALT</code>: Invert orientation of placed
-            belts.<br>"
+        title: مفاتيح ملزمة مفيدة
+        desc: "هذه اللعبة لها العديد من المفاتيح الملزمة لتسهيل بناء المزيد من 
+            المصانع . وهنا عدد قليل, لكن تأكد من <strong>تفحص
+            المفاتيح الملزمة </strong>!<br><br> <code class='keybinding'>CTRL</code> +
+            Drag: حدد منطقة .<br> <code class='keybinding'>SHIFT</code>:
+            اضغط مطولا لوضع عدة سكك .<br> <code
+            class='keybinding'>ALT</code>: عكس اتجاه السكك الموضوعة.<br>"
     createMarker:
-        title: New Marker
-        titleEdit: Edit Marker
-        desc: Give it a meaningful name, you can also include a <strong>short
-            key</strong> of a shape (Which you can generate <link>here</link>)
+        title: علامة جديدة
+        titleEdit: تغيير العلامة
+        desc: اعط لها اسما ذو معنى , بمكنك ايضا وضع  <strong>مفتاح
+            قصير </strong> لشكل ما  (التي يمكنك توليدها <link>هنا </link>)
     markerDemoLimit:
         desc: You can only create two custom markers in the demo. Get the standalone for
             unlimited markers!
